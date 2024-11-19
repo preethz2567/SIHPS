@@ -9,7 +9,7 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 ## Problem Creater's Organization
 Government of Gujarat
 
-## Idea
+# Idea
 Proposed Solution for Alumni Association Platform
 
 ###App Overview: Class Sync – Connecting Alumni, Empowering Futures
@@ -30,7 +30,7 @@ The Networking Hub will connect alumni based on shared interests, professional b
 ### Donation Portal
 The platform will feature a secure, easy-to-use donation portal to facilitate alumni contributions. Alumni can make one-time or recurring donations to various initiatives, such as scholarships or infrastructure projects. The portal will also provide options to contribute to specific funds, ensuring transparency and accountability with detailed transaction history and acknowledgment receipts. This will foster a culture of giving and ensure continued support for the institution’s growth.
 
-# Teacher Connect Feature
+### Teacher Connect Feature
 The Teacher Connect feature will provide a platform for alumni to reconnect with their former faculty members. Alumni can reach out to teachers for mentorship, guidance, or to offer professional opportunities. Faculty members will also have the ability to share academic insights, professional accomplishments, and updates about the institution. This feature fosters ongoing teacher-alumni relationships, contributing to continued personal and professional development for both parties.
 
 ### Entrepreneurship and Alumni Collaboration
@@ -59,13 +59,13 @@ The platform will prioritize security, incorporating two-factor authentication (
 
 
 
-## Proposed Solution / Architecture Diagram
+# Proposed Solution / Architecture Diagram
 ![use cases](https://github.com/user-attachments/assets/4b5b0ccc-c33c-4ec6-a851-b1c8c8b69588)
 
 
 
 
-## Use Cases
+# Use Cases
 ![Architecture diagram](https://github.com/user-attachments/assets/b8476f65-259a-4d1a-bc6d-31aea8ef58f1)
 
 
