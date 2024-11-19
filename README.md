@@ -12,13 +12,13 @@ Government of Gujarat
 # Idea
 Proposed Solution for Alumni Association Platform
 
-###App Overview: Class Sync – Connecting Alumni, Empowering Futures
+### App Overview: Class Sync – Connecting Alumni, Empowering Futures
 Introducing Class Sync, the cutting-edge platform designed to connect alumni and foster long-lasting professional relationships. ClassSync provides an intuitive, all-in-one hub where alumni can easily reconnect, explore new career opportunities, and actively engage with their alma mater’s vibrant community. Whether you’re seeking mentorship, supporting entrepreneurial ventures, or sharing your success stories, Class Sync facilitates seamless interactions to enhance both personal and professional growth. Join ClassSync today and strengthen your alumni network, while contributing to the collective success of your peers and institution.
 
-###Alumini Registration
+### Alumini Registration
 This feature offers a streamlined sign-up process for easy onboarding, with essential details like graduation year, field of study, and contact info. Alumni can manage and update their profiles, including personal and professional information, ensuring accuracy. The platform is fully cross-platform, ensuring seamless access and updates via both web and mobile. Enhanced security features will protect alumni data, ensuring privacy and smooth user experience across all devices.
 
-###Alumni Directory
+### Alumni Directory
 The Alumni Directory will feature advanced search functionalities, allowing alumni to find and connect with peers based on graduation year, industry, location, and other criteria. Contact information will be available with privacy controls to encourage safe and secure communication. The directory will also include exportable lists for organizing events or networking, ensuring that alumni can connect and collaborate easily.
 
 ### Job Portal
