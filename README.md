@@ -66,7 +66,8 @@ The platform will prioritize security, incorporating two-factor authentication (
 
 
 # Use Cases
-![Architecture diagram](https://github.com/user-attachments/assets/50915002-ab3b-4693-b7b3-9e1cbf3f8bf2)
+![Architecture workflow](https://github.com/user-attachments/assets/87cdaffc-fa66-4a45-8320-d8ce0988d739)
+
 
 
 
