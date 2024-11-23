@@ -88,43 +88,43 @@ The platform will prioritize security, incorporating two-factor authentication (
 ## Project Timeline & Budget :
 
  ### 1. Mapping Service
- -Description: This phase involves setting up the mapping system or integrating services like Google Maps or OpenStreetMap. Includes customization for your platform's needs (UI/UX design, API integration, data fetching
+ Description: This phase involves setting up the mapping system or integrating services like Google Maps or OpenStreetMap. Includes customization for the platform's needs (UI/UX design, API integration, data fetching
    - Timeline: 5 Days  
    - Budget: ₹5,000
 
  ### 2.  Data Collection 
-  - Description: Gathering relevant data (user details, job opportunities, event information, alumni profiles, etc.) from sources, and inputting this into the platform’s database.
+  Description: Gathering relevant data (user details, job opportunities, event information, alumni profiles, etc.) from sources, and inputting this into the platform’s database.
 
    - Timeline: 5 Days  
    - Budget: ₹4,000
 
  ### 3.  Frontend Development  
- - Developing the user interface of the application (web or mobile) using technologies like React.js, HTML, CSS, Bootstrap, etc. This includes user registration forms, dashboards, and UI components.
+ Developing the user interface of the application (web or mobile) using technologies like React.js, HTML, CSS, Bootstrap, etc. This includes user registration forms, dashboards, and UI components.
    - Timeline: 7 Days  
    - Budget: ₹6,000
 
  ### 4. Backend Development 
- -Description: Building the backend of the application using Flask (or another framework). Setting up the database (SQLite or MongoDB), implementing authentication, API for fetching data, and payment gateway integration
+ Description: Building the backend of the application using Flask (or another framework). Setting up the database (SQLite or MongoDB), implementing authentication, API for fetching data, and payment gateway integration
    - Timeline: 7 Days  
    - Budget: ₹6,000
 
  ### 5. Payment Integration 
-- Description: Implementing secure payment gateways (e.g., Stripe or Razorpay) for donations or other contributions. Testing and ensuring proper transactions.
+Description: Implementing secure payment gateways (e.g., Stripe or Razorpay) for donations or other contributions. Testing and ensuring proper transactions.
    - Timeline: 3 Days  
    - Budget: ₹3,000
 
  ### 6. Testing & QA 
- -Description: Thorough testing of both frontend and backend, ensuring that all features work as expected (bug fixes, UI testing, security checks, etc.).
+ Description: Thorough testing of both frontend and backend, ensuring that all features work as expected (bug fixes, UI testing, security checks, etc.).
    - Timeline: 4 Days  
    - Budget: ₹2,000
    - 
  ### 7. Deployment & Cloud Setup
- -Description: Setting up cloud deployment (e.g., Heroku, AWS), configuring the environment, and ensuring that the app is accessible for end users.
+ Description: Setting up cloud deployment (e.g., Heroku, AWS), configuring the environment, and ensuring that the app is accessible for end users.
    - Timeline: 2 Days  
    - Budget: ₹1,000
 
  ### Maintenance & Updates
- -Description: After deployment, ongoing monitoring and minor updates to fix issues and improve the user experience based on feedback.
+ Description: After deployment, ongoing monitoring and minor updates to fix issues and improve the user experience based on feedback.
  -Budget: ₹1,000
 
 
