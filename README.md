@@ -71,7 +71,50 @@ The platform will prioritize security, incorporating two-factor authentication (
 
 
 ## Technology Stack
+- ### Frontend: HTML/CSS, JavaScript (or React.js)
+- ### Backend: Python with Flask (or Django)
+- ### Database: PostgreSQL or SQLite (via SQLAlchemy or psycopg2)
+- ### Real-time features: Flask-SocketIO
+- ### Authentication: JWT with Flask-JWT-Extended
+- ### Payment: Stripe Python SDK
+- ### Cloud: Heroku or Render (for deployment)
+
 
 
 ## Dependencies
+
+## Project Timeline & Budget :
+
+1. ### Mapping Service  
+   - Timeline: 5 Days  
+   - Budget: ₹5,000
+
+2. ### Data Collection  
+   - Timeline: 5 Days  
+   - Budget: ₹4,000
+
+3. ### Frontend Development  
+   - Timeline: 7 Days  
+   - Budget: ₹6,000
+
+4. ### Backend Development  
+   - Timeline: 7 Days  
+   - Budget: ₹6,000
+
+5. ### Payment Integration 
+   - Timeline: 3 Days  
+   - Budget: ₹3,000
+
+6. ### Testing & QA**  
+   - Timeline: 4 Days  
+   - Budget: ₹2,000
+
+7. ### Deployment  
+   - Timeline: 2 Days  
+   - Budget: ₹1,000
+
+## Total:  
+- Timeline: 33 Days  
+- Budget: ₹27,000  
+
 
